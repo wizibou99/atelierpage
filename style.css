@@ -1,0 +1,108 @@
+body{
+    background-image: url(image/back.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.contain{
+    width: 100%;
+    
+}
+.nave{
+    border: 1px solid black;
+    background-image: url(image/back.webp);
+}
+.bon{
+    border: 1px solid black;
+    border: none;
+    border-right: 1px solid black;
+    height: 100px;
+    width: 20%;
+}
+.cal{
+    text-align: center;
+    line-height: 100px;
+}
+ul{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 80px;
+    margin-left: 100px;
+    font-size: 25px;
+    text-decoration: none;
+}
+a{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.ic{
+    display: flex;
+    min-width: 50px;
+    height: 50px;
+    margin-top: 30px;
+}
+.man{
+    margin-top: 100px;
+}
+.mane{
+    max-width: 100%;
+}
+
+.abs{
+    min-width: 50%;
+    min-height: 250px;
+    margin: auto;
+    position: absolute;
+    top: 150px;
+    margin-left: 330px;
+}
+.tof{
+    margin-top: 100px;
+}
+.lu{
+    color: white;
+}
+.lux{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 80px;
+    font-weight: bold;
+}
+.rond{
+    border: 2px solid black;
+    border-radius: 50%;
+    min-width: 10%;
+    height: 75px;
+    position: absolute;
+    margin-top: 700px;
+    margin-left: 100px;
+    line-height: 70px;
+}
+.ima{
+    height: 800px;
+    margin-top: 150px;
+}
+.ma{
+    height: 800px;
+    width: 100%;
+}
+.pet{
+    height: 400px;
+    position: absolute;
+    left: 500px;
+    bottom: -240%;
+}
+.rect{
+    width: 35%;
+    min-height: 150px;
+    position: absolute;
+    right: 180px;
+    bottom: -180%;
+}
+.can{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 70px;
+}
+.shop{
+    position: absolute;
+    right: 200px;
+}
+
